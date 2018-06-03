@@ -13,7 +13,7 @@
     <title>first idea java project</title>
 </head>
 <body>
-<%@include file="WEB-INF/top.jsp" %>
+<%@include file="chap4/top.jsp" %>
 <h1>
     坚韧、创新、博学、笃行
 </h1>
@@ -30,6 +30,6 @@
 <ul>
     <li><a href="/chap4/4.3.jsp">4.3</a></li>
 </ul>
-<%@include file="WEB-INF/copyright.jsp"%>
+<%@include file="chap4/copyright.jsp"%>
 </body>
 </html>
