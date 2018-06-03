@@ -11,7 +11,6 @@
     <title>first idea java project</title>
   </head>
   <body>
-  <h1>chap3</h1>
-  <h2>test</h2>
+ 坚韧、创新、博学、笃行
   </body>
 </html>
