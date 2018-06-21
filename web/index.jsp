@@ -11,8 +11,17 @@
 <html>
 <head>
     <title>first idea java project</title>
+    <style>
+        footer{
+            position: fixed;
+            bottom:0;
+            width: 100%;
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
+<jsp:forward page="chap4/login.jsp"></jsp:forward>
 <%@include file="chap4/top.jsp" %>
 <h1>
     坚韧、创新、博学、笃行
@@ -29,6 +38,7 @@
 </h2>
 <ul>
     <li><a href="/chap4/4.3.jsp">4.3</a></li>
+    <li><a href="/chap4/4.4.jsp">4.4</a></li>
 </ul>
 <%@include file="chap4/copyright.jsp"%>
 </body>
